@@ -1,11 +1,3 @@
-spring:
-    application:
-        name: saudacao-service
-
-    profiles:
-     active:
-     - es 
-
 saudacao-service:
-    saudacao: Hello
-    nome-padrao: World
+  saudacao: Hello 
+  nome-padrao: World

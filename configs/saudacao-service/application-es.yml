@@ -1,3 +1,4 @@
 saudacao-service:
-    saudacao: Hol
-    nome-padrao: Mundo
+  saudacao: Hola
+  nome-padrao: Mundo
+ 
